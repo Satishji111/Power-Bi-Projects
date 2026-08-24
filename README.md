@@ -58,7 +58,7 @@ To analyze employee data and provide insights related to **attrition, performanc
 * DAX Measures & Calculated Columns
 * KPI Cards
 * Interactive slicers & filters
-* Conditional formatting
+* Conditional formatting 
 
 ---
 
