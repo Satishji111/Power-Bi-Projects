@@ -23,7 +23,7 @@ Currently, the following dashboards are available in this repository:
 
 
 ## Repository structure
-
+```bash
 Power-Bi-Projects/
 │
 ├── HR_Analytics/
@@ -33,7 +33,7 @@ Power-Bi-Projects/
 │   └── Hospital_Waiting_List.pbix
 │
 └── README.md
-
+```
 
 ## Project 1: HR_Analytics
 
@@ -100,9 +100,7 @@ This business dashboard helps to evaluate and monitor the patient waiting list a
 1. Clone the repository
 
 ```bash
-
 git clone https://github.com/Satishji111/Power-Bi-Projects.git
-
 
 ```
 
