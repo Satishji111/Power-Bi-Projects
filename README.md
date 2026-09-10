@@ -1,10 +1,10 @@
 # 📊 Power BI Projects
 
-This repository contains **end-to-end Power BI dashboard projects** built to demonstrate strong skills in **data analysis, data modeling, DAX, and business storytelling**. Each dashboard focuses on solving a real-world business problem with actionable insights.
+The projects in this repository demonstrate my ability to create end-to-end Power BI dashboards that showcase my knowledge of strong analytical skills, data modeling, DAX and business storytelling capabilities. Each dashboard demonstrates a specific business case and provides a solution to solve an underlying business problem.
 
----
 
-## 📌 Repository Overview
+
+## Repository summary
 
 Power BI is widely used by organizations for decision-making and performance tracking. This repository showcases my ability to:
 
@@ -14,16 +14,16 @@ Power BI is widely used by organizations for decision-making and performance tra
 * Write efficient DAX measures
 * Design interactive and insightful dashboards
 
-📁 **Current dashboards included:**
 
-1. **HR Analytics Dashboard**
-2. **Hospital Waiting List Dashboard**
+Currently, the following dashboards are available in this repository:
 
----
+1. HR_Analytics
+2. Hospital_Waiting_List
 
-## 🗂️ Project Structure
 
-```bash
+
+## Repository structure
+
 Power-Bi-Projects/
 │
 ├── HR_Analytics/
@@ -33,17 +33,15 @@ Power-Bi-Projects/
 │   └── Hospital_Waiting_List.pbix
 │
 └── README.md
-```
 
----
 
-## 🧑‍💼 Project 1: HR Analytics Dashboard
+## Project 1: HR_Analytics
 
-### 🎯 Objective
+### Project overview
 
-To analyze employee data and provide insights related to **attrition, performance, and workforce distribution**, enabling HR teams to take data-driven decisions.
+This project provides an analytics dashboard to analyze employees' information and helps address key HR business questions and make informed decisions about the workforce.
 
-### 📈 Key Insights
+### Dashboard highlights
 
 * Employee attrition trends
 * Attrition by department, job role & gender
@@ -51,7 +49,7 @@ To analyze employee data and provide insights related to **attrition, performanc
 * Employee distribution across roles
 * Performance and satisfaction overview
 
-### 🛠️ Skills & Concepts Used
+### Tools & Concepts
 
 * Data Cleaning & Transformation (Power Query)
 * Data Modeling (Star Schema)
@@ -60,15 +58,14 @@ To analyze employee data and provide insights related to **attrition, performanc
 * Interactive slicers & filters
 * Conditional formatting 
 
----
 
-## 🏥 Project 2: Hospital Waiting List Dashboard
+## Project 2: Hospital_Waiting_List
 
-### 🎯 Objective
+### Project overview
 
-To monitor and analyze **patient waiting lists** in hospitals and identify bottlenecks in healthcare service delivery.
+This business dashboard helps to evaluate and monitor the patient waiting list and prioritize patients based on their needs.
 
-### 📈 Key Insights
+### Dashboard highlights
 
 * Total patients on waiting list
 * Average waiting time
@@ -76,7 +73,7 @@ To monitor and analyze **patient waiting lists** in hospitals and identify bottl
 * Specialty-wise and case-type analysis
 * Comparison between inpatient & outpatient cases
 
-### 🛠️ Skills & Concepts Used
+### Tools & Concepts
 
 * Data Transformation using Power Query
 * Time-based analysis
@@ -84,9 +81,9 @@ To monitor and analyze **patient waiting lists** in hospitals and identify bottl
 * Drill-through & slicers
 * Trend and comparison visuals
 
----
 
-## ⚙️ Tools & Technologies
+## Technologies
+
 
 * **Power BI Desktop**
 * **DAX (Data Analysis Expressions)**
@@ -95,21 +92,26 @@ To monitor and analyze **patient waiting lists** in hospitals and identify bottl
 
 ---
 
-## 🚀 How to Use the Dashboards
+
+## How to use
+
+
 
 1. Clone the repository
 
 ```bash
+
 git clone https://github.com/Satishji111/Power-Bi-Projects.git
+
+
 ```
 
-2. Open the `.pbix` file using **Power BI Desktop**
+2. Open file with .pbix extension in Power BI Desktop
 
-3. Interact with slicers, filters, and visuals to explore insights
+3. Explore the dashboard
 
----
 
-## 📌 Key Highlights
+## Project highlights
 
 * Business-focused dashboards
 * Clean and intuitive design
@@ -117,9 +119,10 @@ git clone https://github.com/Satishji111/Power-Bi-Projects.git
 * Real-world use cases
 * Recruiter & interview-ready portfolio
 
----
 
-## 📈 Future Enhancements
+
+## Next steps
+
 
 * Add more domain-specific dashboards (Finance, Sales, Supply Chain)
 * Publish dashboards to Power BI Service
@@ -128,16 +131,14 @@ git clone https://github.com/Satishji111/Power-Bi-Projects.git
 
 ---
 
-## 👨‍💻 Author
 
-**Satish Yadav**
-Senior Data Research Analyst
-📊 Data Analytics | Power BI | SQL | Python
+## Author
 
-🔗 GitHub: [https://github.com/Satishji111](https://github.com/Satishji111)
+Satish Yadav
+Senior Data Analyst
+Data Analytics | Power BI | SQL | Python
 
----
 
-## ⭐ Support
 
-If you find these dashboards useful, please **star ⭐ the repository**. It helps showcase the project to recruiters and the data community.
+## Support
+If you like this repository, please consider giving it a star ⭐. This will help to raise the visibility of the project among recruiters and analysts.
